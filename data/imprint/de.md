@@ -1,0 +1,8 @@
+- Flydifferent
+- Kleinmichel Nr.1
+- IT-39040 Kastelruth(BZ)
+- Tel: +393356036400
+- E-Mail: info@flydifferent.eu
+- Geschäftsführer: Ruben Mahlknecht
+- Steuernummer 02811250212
+- MwSt. 02811250212

@@ -1,0 +1,4 @@
+- Mobiltelefon (erreichbar)
+- Festes Schuhwerk
+- Sonnenbrille
+- Winddichte Jacke

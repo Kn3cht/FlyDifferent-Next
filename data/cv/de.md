@@ -1,0 +1,12 @@
+- Gleitschirmpilot seit 1996
+- Zertifizierter Tandempilot seit 2000
+- Akropilot seit 2008
+- im Profly-Entwicklungsteam seit 2010
+- Fluglehrerassitent seit 2012
+- Deuscher Flugschein A und B 2013
+- Deutsche Tandemfluglizenz 2014
+- Deutscher Fluglehrerassistent 2016
+- Deutscher und österreichischer Fluglehrer 2017
+- Deutscher und östereichischer Prüfer 2017
+- Geboren 1972 in Brixen, Italien
+- Diplommanager, Akropilot, Testpilot und Fluglehrer.

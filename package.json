@@ -1,0 +1,48 @@
+{
+  "name": "flydifferent-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:dev": "next build && mv ./opt/* /opt/homebrew/Cellar/nginx/1.27.0/html",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/react-cookiebot": "^1.0.4",
+    "add": "^2.0.6",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.3",
+    "i18next": "^23.11.5",
+    "marked": "^13.0.2",
+    "next": "14.2.5",
+    "next-i18next": "^15.3.0",
+    "next-intl": "^3.17.0",
+    "next-seo": "^6.5.0",
+    "next-translate": "^2.6.2",
+    "object-to-formdata": "^4.5.1",
+    "path": "^0.12.7",
+    "react": "^18",
+    "react-cookiebot": "^1.0.10",
+    "react-dom": "^18",
+    "react-i18next": "^14.1.2",
+    "react-photo-view": "^1.2.6",
+    "react-scroll-parallax": "^3.4.5",
+    "remark-html": "^16.0.1",
+    "swr": "^2.2.5",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "next-export-i18n": "^3.0.0",
+    "postcss": "^8",
+    "prettier": "^3.3.2",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}

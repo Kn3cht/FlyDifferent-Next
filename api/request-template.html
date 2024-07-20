@@ -1,0 +1,27 @@
+<p>Hallo Ruben & Elke,</p>
+<p>Es ist eine neue Anfrage für einen Gleitschirmflug eingegangen!:</p>
+
+<p><strong>Gutschein:</strong> {{isVoucher}}</p>
+<p><strong>Flug:</strong> {{flightTitle}}</p>
+<p><strong>Variation:</strong> {{expectedDuration}} min; {{price}},-€ </p>
+<p><strong>Vorname:</strong> {{firstName}}</p>
+<p><strong>Nachname:</strong> {{lastName}}</p>
+<p><strong>Telefon:</strong> {{phoneNumber}}</p>
+<p><strong>E-Mail:</strong> {{email}}</p>
+<p><strong>Datum von:</strong> {{arrivalDate}}</p>
+<p><strong>Datum bis:</strong> {{departureDate}}</p>
+<p><strong>Weitere Details:</strong> {{furtherDetails}}</p>
+
+<h2>Passagiere</h2>
+<table>
+    <thead>
+    <tr>
+        <th>Nummer</th>
+        <th>Alter</th>
+        <th>Gewicht</th>
+    </tr>
+    </thead>
+    <tbody>
+    {{passengerRows}}
+    </tbody>
+</table>
